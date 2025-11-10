@@ -32,6 +32,8 @@ On the left is the original Totem logo, and on the right is a logo inspired by m
 
 If you don’t like them, you can remove them yourself in Fusion 360 before placing your order.
 
+The recommended diameter for the anti-slip bumpons is 8 mm.
+
 
 
 <img src="https://github.com/Dexter-KBD/totem_choc_v2/blob/main/Image/IMG_1003.JPEG?raw=true" width="600" alt="Totem image">
